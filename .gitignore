@@ -8,10 +8,6 @@
 *.plan
 
 # Terraform variable files with secrets
-*.tfvars
-*.tfvars.json
-!example.tfvars
-!*.tfvars.example
 
 # Terraform directories
 .terraform/
