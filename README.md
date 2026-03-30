@@ -6,17 +6,17 @@ This repo contains the Terraform code accompanying a 3-part Medium series on man
 
 ## Blog Series
 
-### Part 1 — [Stop Clicking, Start Coding: Terraform for Databricks Engineers](<YOUR_MEDIUM_URL_PART_1>)
+### Part 1 — [Stop Clicking, Start Coding: Terraform for Databricks Engineers](https://medium.com/@heikokromer/stop-clicking-start-coding-terraform-for-databricks-engineers-a9d45830def8)
 
 Deploy your first Databricks Workspace without touching a single button in the Azure portal.
 Code: [`part_1/`](part_1/)
 
-### Part 2 — [Configuring Databricks with Terraform: Clusters, Unity Catalog & Permissions](<YOUR_MEDIUM_URL_PART_2>)
+### Part 2 — [Configuring Databricks with Terraform: Clusters, Unity Catalog & Permissions](TBD)
 
 Fill your Workspace with everything you normally configure through the UI — clusters, Unity Catalog, and fine-grained permissions.
 Code: [`part_2/`](part_2/)
 
-### Part 3 — [Terraform vs. Databricks Asset Bundles: When to Use What](<YOUR_MEDIUM_URL_PART_3>)
+### Part 3 — [Terraform vs. Databricks Asset Bundles: When to Use What](TBD)
 
 Tackle the question every Databricks team eventually asks: should you use Terraform, Databricks Asset Bundles, or both?
 
