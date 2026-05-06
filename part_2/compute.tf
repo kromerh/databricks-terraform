@@ -4,7 +4,7 @@ resource "databricks_cluster_policy" "sales" {
   definition = jsonencode({
     "spark_version" : {
       "type" : "regex",
-      "pattern" : "1[3-5]\\.[0-9]+\\.x-scala.*",
+      "pattern" : "1[3-7]\\.[0-9]+\\.x-scala.*",
       "defaultValue" : "17.3.x-scala2.13"
     },
     "node_type_id" : {
